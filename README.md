@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bhaskrr
-- 👀 I’m interested in web design and development
 - 📫 Reach me on instagram @_mr.bordoloi_
 
 <!---
