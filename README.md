@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @bhaskrr
+- Currently learning front end web development
 - 📫 Reach me on instagram @_mr.bordoloi_
 
 <!---
