@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhaskrr
-- Learning front end web development
+- Learning full stack web development, Natural Language Processing and Deep Learning
 - 📫 Reach me on instagram @_mr.bordoloi_
 
 <!---
