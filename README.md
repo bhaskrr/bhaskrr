@@ -15,6 +15,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bhaskrr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskrr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# 🤝 Getting Involved
+
+I love collaborating with fellow developers, researchers, and builders.  
+**Feel free to open issues, submit PRs, or drop me a line — let's build something cool together!**
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
