@@ -11,6 +11,10 @@
 ██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+
+## Builder · Tinkerer · Chronic Side-Project Starter
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=If+it+works%2C+don't+touch+it+(I+always+touch+it);Turning+coffee+into+bugs+since+forever;Yes+it+runs+on+my+machine;pip+install+and+pray;The+docs+lied.+I+checked.;Open+source+or+bust+%F0%9F%94%93;Ship+it+%E2%86%92+fix+it+%E2%86%92+repeat)
 </div>
 
 ## About Me
