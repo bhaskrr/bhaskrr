@@ -68,9 +68,7 @@ Most of my work starts from a simple question:
 
 ## GitHub Stats
 
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/bhaskrr/bhaskrr/main/dist/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhaskrr)](https://git.io/streak-stats)
 
 </div>
 
